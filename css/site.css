@@ -104,3 +104,13 @@ color: var(--ecd-primary-color)
 .social>a:hover{
     color: var(--ecd-nav-toggler-glow)
 }
+
+.pBlue{
+    font-size: 2rem;
+    color: blue;
+}
+
+pRed{
+    font-size: 2rem;
+    color: red;
+}
